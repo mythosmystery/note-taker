@@ -24,7 +24,7 @@ app.post("/api/notes", (req, res) => {
     // console.log(stringNotes);
     fs.writeFile(dbPath, stringNotes, (err) => {
         if(err) throw err;
-        console.log("complete");
+        console.log("Writing complete");
         res.json({status:"success"});
     });
     
@@ -38,7 +38,7 @@ app.delete("/api/notes/:id", (req, res) => {
     // console.log(stringNotes);
     fs.writeFile(dbPath, stringNotes, (err) => {
         if(err) throw err;
-        console.log("complete");
+        console.log("Deleted Item");
         res.json({status:"success"});
     });
 })
