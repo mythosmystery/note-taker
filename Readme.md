@@ -1,7 +1,4 @@
-
-
 #  Title: Note Taker
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ### Project Created By: Hunter Barton
 ### Description: A webapp for taking notes. You can write and save multiple notes. You can load old notes and delete them if needed.
 **
