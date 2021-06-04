@@ -1,7 +1,10 @@
+
 #  Title: Note Taker
+
 ### Project Created By: Hunter Barton
 ## Description:
 A webapp for taking notes. You can write and save multiple notes. You can load old notes and delete them if needed.
+
 ***
 ## Table of Contents
 * [Installation](#installation)
@@ -10,8 +13,8 @@ A webapp for taking notes. You can write and save multiple notes. You can load o
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-
 ***
+
 ## Installation 
 Install node.js then navigate to the repo folder and run 'npm install'. 
 
@@ -23,6 +26,9 @@ Run 'node server.js' to start the server. Go to localhost:3000 in the browser to
 
 ## Contributing
 If you would like to add to this project, you can [follow me on GitHub](https://github.com/mythosmystery).  
+
+## Configuration
+No special configuration needed
 
 ## Tests
 Just go at it, create notes, delete notes, view notes
