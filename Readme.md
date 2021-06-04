@@ -1,7 +1,8 @@
 #  Title: Note Taker
 ### Project Created By: Hunter Barton
-### Description: A webapp for taking notes. You can write and save multiple notes. You can load old notes and delete them if needed.
-**
+## Description:
+A webapp for taking notes. You can write and save multiple notes. You can load old notes and delete them if needed.
+***
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -10,7 +11,7 @@
 * [Tests](#tests)
 * [Questions](#questions)
 
-**
+***
 ## Installation 
 Install node.js then navigate to the repo folder and run 'npm install'. 
 
